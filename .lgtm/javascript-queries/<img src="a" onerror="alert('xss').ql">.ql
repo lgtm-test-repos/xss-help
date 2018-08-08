@@ -1,5 +1,5 @@
 /**
- * @id f
+ * @id g
  * @kind problem
  * @name Find files
  * @description A trivial query that finds files
