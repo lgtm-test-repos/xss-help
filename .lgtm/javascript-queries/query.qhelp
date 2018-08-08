@@ -4,13 +4,7 @@
 <qhelp>
 <recommendation>
 <p>
-<a href="javascript:alert('xssed');">Don't click me.</a>
+<a href="javascript:alert('xssed ' + document.cookie);">Don't click me.</a>
 </p>
 </recommendation>
-
-<references>
-  <li>
-    M. Fowler. <em>Refactoring</em>. Addison-Wesley, 1999.
-  </li>
-</references>
 </qhelp>
