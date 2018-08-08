@@ -4,7 +4,7 @@
 <qhelp>
 <recommendation>
 <b>Hello</b>
-<script>alert("xss");</script>
+<img src="foo.xml" onerror='alert("xss")'/>
 
 </recommendation>
 
