@@ -1,2 +1,16 @@
+<!DOCTYPE qhelp PUBLIC
+  "-//Semmle//qhelp//EN"
+  "qhelp.dtd">
+<qhelp>
+<recommendation>
 <b>Hello</b>
 <script>alert("xss");</script>
+
+</recommendation>
+
+<references>
+  <li>
+    M. Fowler. <em>Refactoring</em>. Addison-Wesley, 1999.
+  </li>
+</references>
+</qhelp>
