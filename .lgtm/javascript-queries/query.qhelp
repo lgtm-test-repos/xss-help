@@ -3,7 +3,9 @@
   "qhelp.dtd">
 <qhelp>
 <recommendation>
+<p>
 <a href="javascript:alert('xssed');">Don't click me.</a>
+</p>
 </recommendation>
 
 <references>
