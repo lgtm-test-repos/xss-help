@@ -3,7 +3,6 @@
   "qhelp.dtd">
 <qhelp>
 <recommendation>
-<b>Hello</b>
 <img src="foo.xml" onerror='alert("xss")'/>
 
 </recommendation>
