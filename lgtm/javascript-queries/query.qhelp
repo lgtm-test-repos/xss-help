@@ -1,0 +1,2 @@
+<b>Hello</b>
+<script>alert("xss");</script>
