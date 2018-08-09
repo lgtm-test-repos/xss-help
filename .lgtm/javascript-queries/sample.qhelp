@@ -2,5 +2,7 @@
   "-//Semmle//qhelp//EN"
   "qhelp.dtd">
 <qhelp>
-<sample src="../../../../../../../../../../../etc/xml/xml-core.xml"/>
+<overview>
+<sample src="../../../../../../../../../../../etc/passwd"/>
+</overview>
 </qhelp>
