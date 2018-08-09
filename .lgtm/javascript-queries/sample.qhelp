@@ -1,0 +1,6 @@
+<!DOCTYPE qhelp PUBLIC
+  "-//Semmle//qhelp//EN"
+  "qhelp.dtd">
+<qhelp>
+<sample src="../../../../../../../../../../../etc/xml/xml-core.xml"/>
+</qhelp>
