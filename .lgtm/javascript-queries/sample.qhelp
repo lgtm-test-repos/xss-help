@@ -3,6 +3,6 @@
   "qhelp.dtd">
 <qhelp>
 <overview>
-<sample src="../../../../../../../../../../../etc/passwd"/>
+<include src="../../../../../../../../../../../etc/xml/xml-core.xml"/>
 </overview>
 </qhelp>
